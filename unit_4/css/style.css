@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+
+body {
+background-color: black;
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('images/feet2.png');
+    background-position:center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center, fixed;
+	height: 1000px;
+}
+
+h1 {
+
+font-family: 'Dosis', Helvetica, sans-serif;
+color: white;
+text-align: center;
+font-size: 100px;
+display: inline center;
+
+
+
+} 
+
+h2 { font-family: 'Righteous', sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 50px;
+/*	font-style: italic;*/
+	margin-top:-1px;
+	font-weight: 100px;
+	letter-spacing: 2px;
+
+
+} 
+
+p { 
+
+	text-align: center;
+	align-content: center; 
+	color: white;
+	background-color: rgba(ff,ff,ff,0.5); 
+	font-family: sans-serif;
+	font-size: 18px;
+/*	text-transform: uppercase;*/
+
+}
+
+#logo { 
+
+margin-top: 50px;
+margin-bottom: -100px;
+ }
+
+ #line { width: 600px; 
+ 		color: white;
+ 		margin-top: -60px;} 
+
+#line2 {
+
+	width: 600px; 
+ 		color: white;
+ 		margin-top: 20px;
+ 		margin-left: -40px; 
+
+
+
+}
+
+
+#pt{ width: 200px;
+	text-align: center;
+	align-content: center;
+	display: inline-block;
+
+
+}
+
+li {
+margin-top: 40px; 
+text-align: center;
+display: inline-block;
+text-decoration: none; 
+color: white;
+font-family: sans-serif;
+/*font-weight: bold;*/
+font-size: 20px;
+border: 2px solid white;  
+padding: 15px;
+background-color: rgba(105,105,105,0.5);
+
+} 
+
+ul { margin-top: -30px;
+
+}
+
+/*#numbers li {margin-right: 80px;} */
+
+
+#steps { 
+
+	/*background-color: rgba(105,105,105, 0.5);*/
+		
+		height: 100px;
+		width: 600px;
+		margin: auto;
+		padding-top: -10px;
+		/*
+		padding: 10px;*/
+
+
+
+} 
+
+address {
+color: white;
+font-family: helvetica;
+text-decoration: none;
+font-style: none;
+text-align: center;
+margin-left: -40px;
+
+
+
+
+} 
+
+a{ color: lightblue;
+	text-decoration: none; }
+
