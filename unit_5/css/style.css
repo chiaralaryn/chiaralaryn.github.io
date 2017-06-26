@@ -1,0 +1,300 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+
+nav{  
+		margin: 0 auto;
+
+ }
+
+
+nav li {
+		margin: 0 auto; 
+		text-align: center;
+		display: inline-block;
+		text-decoration: none; 
+		color: white;
+		font-family: helvetica, sans-serif;
+/*font-weight: bold;*/
+		font-size: 20px;
+		/*border: 2px solid white;  */
+		padding: 20px;
+} 
+
+#navlogo { height: 40px;
+			width: 40px;
+			margin-top: -1.35em;
+
+
+
+
+}
+
+body {
+background-color: blue;
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('images/feet2.png');
+    background-position:center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center, fixed;
+/*	max-height: 20em;*/
+	width: 100%;
+	z-index: -1;
+	margin: 0 auto;
+}
+
+#main {  margin-top: 15em;
+		align-content: center;
+		text-align: center;
+
+
+ } 
+
+
+h1 {
+
+font-family: 'Dosis', Helvetica, sans-serif;
+color: white;
+text-align: center;
+font-size: 100px;
+display: inline center;
+
+
+
+} 
+
+h2 { font-family: 'Righteous', sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 50px;
+/*	font-style: italic;*/
+	margin-top:-1px;
+	font-weight: 100px;
+	letter-spacing: 2px;
+
+
+} 
+
+p { 
+
+	text-align: center;
+	align-content: center; 
+	color: white;
+	background-color: rgba(ff,ff,ff,0.5); 
+	font-family: sans-serif;
+	font-size: 18px;
+/*	text-transform: uppercase;*/
+
+}
+
+#logo { 
+
+margin-top: 50px;
+margin-bottom: -100px;
+ }
+
+ #line { width: 600px; 
+ 		color: white;
+ 		margin-top: -60px;} 
+
+#line2 {
+margin: 0 auto;
+	width: 600px; 
+ 		color: white;
+ 		margin-top: 20px;
+
+/* 		margin-left: -40px; */
+
+
+
+}
+
+
+#pt{ width: 200px;
+	text-align: center;
+	align-content: center;
+	display: inline-block;
+
+
+}
+
+#three li {
+margin-top: 40px; 
+text-align: center;
+display: inline-block;
+text-decoration: none; 
+color: white;
+font-family: sans-serif;
+/*font-weight: bold;*/
+font-size: 20px;
+border: 2px solid white;  
+padding: 15px;
+background-color: rgba(105,105,105,0.5);
+
+} 
+
+#three ul { margin-top: -30px;
+
+}
+
+/*#numbers li {margin-right: 80px;} */
+
+
+#steps { 
+
+	/*background-color: rgba(105,105,105, 0.5);*/
+		
+		height: 100px;
+		width: 600px;
+		margin: auto;
+		padding-top: -10px;
+		/*
+		padding: 10px;*/
+
+
+
+} 
+
+address {
+color: white;
+font-family: helvetica;
+text-decoration: none;
+font-style: none;
+text-align: center;
+margin-left: -40px;
+
+
+
+
+} 
+
+a{ color: lightblue;
+	text-decoration: none; }
+
+
+#about { margin: 0 auto;
+
+			margin-top: 20em;
+/*			margin-left: -2em;*/
+			height: 30em;
+			background-color: white;
+			z-index: 0;
+			/*width: cover;
+			background-size: cover;*/
+
+
+
+} 
+
+
+#profile{   float: left;
+			background-color: darkgrey;
+			height: 30em;
+			z-index: 1;
+			width: 30%;
+/*			margin-left: -8px;*/
+
+
+
+ } 
+
+
+#profileImage img { width: 60%;
+				height: 60%;
+				align-content: center;
+				text-align: center;
+				margin-top: 10px;
+
+ } 
+
+ #profileImage h3 { color: white;
+ 							margin-top: -1em;
+ 							font-family: sans-serif;
+ 					} 
+
+  #profileImage p {  color: black;
+  						font-size: 12px;
+
+  					padding: 1em 4em 1em 4em;
+  					text-align: left;
+
+
+
+   }
+
+ #aboutContent { float: left; 
+					width: 70%;
+					height: 30em; 
+					background-color: white;
+
+				} 
+
+
+#aboutContent p { color: black; 
+					text-align: left;
+					padding: 1em 6em 1em 6em;}
+
+
+#aboutHeader h1 { color: lightblue; 
+					text-align: center;
+					font-size: 40px; 
+					margin: 0 auto; 
+					margin-top: 1em;
+
+
+
+
+} 
+
+
+
+#break {  background-color: lightblue;
+			height: 5em; 
+			margin: 0 auto;
+			width: 100%;
+/*			margin-left: -1em;*/
+
+ }
+
+
+/*<!-- END OF ABOUT SECTION --> */
+
+/*<!-- BEGINNING OF PRODUCT SECTION -->*/
+
+
+#productSection { width: 100%; 
+					height: 40em; 
+					background-color: black;
+					margin: 0 auto;
+
+
+} 
+
+
+#productSection p { padding-top: 10em; } 
+
+#products {  background-color: black;
+
+
+ } 
+
+
+ #contactSection {  
+
+
+ 	background-color: lightgrey;
+
+			height: 30em; 
+			margin: 0 auto;
+			width: 100%;
+			background-size: cover;
+
+
+
+  } 
+
+
+
+#contactSection p { padding-top: 30em; } 
+
