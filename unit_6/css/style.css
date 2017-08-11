@@ -1,0 +1,392 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+
+nav{  
+		margin: 0 auto;
+
+ }
+
+
+nav li {
+		margin: 0 auto; 
+		text-align: center;
+		display: inline-block;
+		text-decoration: none; 
+		color: white;
+		font-family: helvetica, sans-serif;
+/*font-weight: bold;*/
+		font-size: 20px;
+		/*border: 2px solid white;  */
+		padding: 20px;
+} 
+
+#navlogo { height: 40px;
+			width: 40px;
+			margin-top: -1.35em;
+
+
+
+
+}
+
+body {
+background-color: blue;
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('images/feet2.png');
+    background-position:center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center, fixed;
+/*	max-height: 20em;*/
+	width: 100%;
+	z-index: -1;
+	margin: 0 auto;
+}
+
+#main {  margin-top: 15em;
+		align-content: center;
+		text-align: center;
+
+
+ } 
+
+
+h1 {
+
+font-family: 'Dosis', Helvetica, sans-serif;
+color: white;
+text-align: center;
+font-size: 100px;
+display: inline center;
+
+
+
+} 
+
+h2 { font-family: 'Righteous', sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 50px;
+/*	font-style: italic;*/
+	margin-top:-1px;
+	font-weight: 100px;
+	letter-spacing: 2px;
+
+
+} 
+
+p { 
+
+	text-align: center;
+	align-content: center; 
+	color: white;
+	background-color: rgba(ff,ff,ff,0.5); 
+	font-family: sans-serif;
+	font-size: 18px;
+/*	text-transform: uppercase;*/
+
+}
+
+#logo { 
+
+margin-top: 50px;
+margin-bottom: -100px;
+ }
+
+ #line { width: 600px; 
+ 		color: white;
+ 		margin-top: -60px;} 
+
+#line2 {
+margin: 0 auto;
+	width: 600px; 
+ 		color: white;
+ 		margin-top: 20px;
+
+/* 		margin-left: -40px; */
+
+
+
+}
+
+
+#pt{ width: 200px;
+	text-align: center;
+	align-content: center;
+	display: inline-block;
+
+
+}
+
+#three li {
+margin-top: 40px; 
+text-align: center;
+display: inline-block;
+text-decoration: none; 
+color: white;
+font-family: sans-serif;
+/*font-weight: bold;*/
+font-size: 20px;
+border: 2px solid white;  
+padding: 15px;
+background-color: rgba(105,105,105,0.5);
+
+} 
+
+#three ul { margin-top: -30px;
+
+}
+
+/*#numbers li {margin-right: 80px;} */
+
+
+#steps { 
+
+	/*background-color: rgba(105,105,105, 0.5);*/
+		
+		height: 100px;
+		width: 600px;
+		margin: auto;
+		padding-top: -10px;
+		/*
+		padding: 10px;*/
+
+
+
+} 
+
+address {
+color: white;
+font-family: helvetica;
+text-decoration: none;
+font-style: none;
+text-align: center;
+margin-left: -40px;
+
+
+
+
+} 
+
+a{ color: lightblue;
+	text-decoration: none; }
+
+
+#about { margin: 0 auto;
+
+			margin-top: 20em;
+/*			margin-left: -2em;*/
+			height: 30em;
+			background-color: white;
+			z-index: 0;
+			/*width: cover;
+			background-size: cover;*/
+
+
+
+} 
+
+
+#profile{   float: left;
+			background-color: darkgrey;
+			height: 30em;
+			z-index: 1;
+			width: 30%;
+/*			margin-left: -8px;*/
+
+
+
+ } 
+
+
+#profileImage img { width: 60%;
+				height: 60%;
+				align-content: center;
+				text-align: center;
+				margin-top: 10px;
+
+ } 
+
+ #profileImage h3 { color: white;
+ 							margin-top: -1em;
+ 							font-family: sans-serif;
+ 					} 
+
+  #profileImage p {  color: black;
+  						font-size: 12px;
+
+  					padding: 1em 4em 1em 4em;
+  					text-align: left;
+
+
+
+   }
+
+ #aboutContent { float: left; 
+					width: 70%;
+					height: 30em; 
+					background-color: white;
+
+				} 
+
+
+#aboutContent p { color: black; 
+					text-align: left;
+					padding: 1em 6em 1em 6em;}
+
+
+#aboutHeader h1 { color: lightblue; 
+					text-align: center;
+					font-size: 40px; 
+					margin: 0 auto; 
+					margin-top: 1em;
+
+
+
+
+} 
+
+
+
+#break {  background-color: lightblue;
+			height: 5em; 
+			margin: 0 auto;
+			width: 100%;
+/*			margin-left: -1em;*/
+
+ }
+
+
+/*<!-- END OF ABOUT SECTION --> */
+
+/*<!-- BEGINNING OF PRODUCT SECTION -->*/
+
+
+#productSection { width: 100%; 
+					/*height: 40em; */
+				/*	background-color: black;*/
+					margin: 0 auto;
+					clear: both;
+
+
+} 
+
+#productSection h2 { padding-top: 1em; }
+
+
+/*#productSection p { padding-top: 10em; 
+					} */
+
+#products hr { width: 70em; 
+				margin: 0 auto;
+				align-content: center;
+
+ /*background-color: black;*/
+
+
+ } 
+
+
+
+
+ #contactSection {  
+
+
+ 	background-color: lightgrey;
+
+/*			height: 30em;*/ 
+			margin: 0 auto;
+			margin-top: -20px;
+/*			width: 100%;*/
+			background-size: cover;
+			clear: both;
+			padding: 2em;
+
+  } 
+
+
+  #contactSection p { margin: 0 auto;
+  						line-height: center; 
+/*  						float: left; */
+/*  						padding-left: 2em; */
+  					} 
+
+#items ul { list-style: none;
+			text-decoration: none; 
+			line-height: center;} 
+
+
+#items li { float: left;
+			padding: 4em;
+			background-color: white;
+			border: 1px solid blue;
+			text-decoration: none;
+			margin: 2em;
+			height: 6em;
+			width: 6em;
+			list-style-type: none;
+			text-align: center;
+			line-height: center;
+			align-content: center;
+
+
+
+} 
+
+  
+#products li {  transition: all 200ms ease-in; 
+				line-height: center;} 
+#products li:hover { background: rgba(255,255,0,.3); 
+						border: 1px solid aqua;
+						overflow: hidden;
+					text-align: center;
+			align-content: center; 
+					color: white;} 
+
+
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
+
+/* Effect 7a */
+.hovicon.effect-7.sub-a:after {
+  box-shadow: 0 0 0 white;
+  -webkit-transition: opacity 0.2s, box-shadow 0.2s;
+  -moz-transition: opacity 0.2s, box-shadow 0.2s;
+  transition: opacity 0.2s, box-shadow 0.2s;
+}
+
+.hovicon.effect-7.sub-a:hover:after {
+  opacity: 1;
+  box-shadow: 3px 3px 0 white;
+}
+
+.hovicon.effect-7.sub-a:before {
+  -webkit-transform: scale(0.8);
+  -moz-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  transform: scale(0.8);
+  opacity: 0.7;
+  -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+  -moz-transition: -moz-transform 0.2s, opacity 0.2s;
+  transition: transform 0.2s, opacity 0.2s;
+}
+
+.hovicon.effect-7.sub-a:hover:before {
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  opacity: 1;
+}
+
+
